@@ -1,0 +1,24 @@
+.header {
+  background-color: #A1B489;
+  height: 2em;
+  padding: 1em;
+}
+
+.header > nav {
+  display: flex;
+}
+
+.navLink {
+  color: white;
+  font-weight: bold;
+  padding-right: 1em;
+  text-decoration: none;
+}
+
+img {
+  display: block;   
+  height: auto;        
+  margin-top: 15px;
+  margin-left: auto;   
+  margin-right: auto;        
+}

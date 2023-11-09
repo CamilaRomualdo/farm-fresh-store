@@ -1,0 +1,49 @@
+.addButton {
+  background-color: #a23a3af5;
+  border: 1px solid #fff;
+  border-radius: 3px;
+  color: white;
+  cursor: pointer;
+  padding: 9px 13px;
+}
+
+.addButton:hover {
+  background-color: #b15252f5;
+}
+
+.caption {
+  font-size: 0.6em;
+}
+
+.product {
+  display: flex;
+  flex-direction: row;
+  overflow: hidden;
+}
+
+.product figure {
+  margin: 1em;
+}
+
+.product img {
+  height: 240px;
+  margin-left: -3px;
+  width: 240px;
+}
+
+.products {
+  display: grid;
+  font-size: 14px;
+  grid-gap: 1em;
+  grid-template-columns: repeat(2, 1fr);
+  list-style-type: none;
+  margin: 2em;
+  padding: 0;
+}
+
+.products li {
+  background-color: #fff;
+  border-radius: 3px;
+  padding: 1em;
+  text-align: left;
+}

@@ -1,0 +1,74 @@
+.button {
+  background-color: #889b70;
+  border: 1px solid #889b70;
+  border-radius: 3px;
+  color: #fff;
+  cursor: pointer;
+  font-size: 18px;
+  margin-left: 35px;
+  margin-top: 50px;
+  padding: 9px 13px;
+}
+
+.button:hover {
+  background-color: #b6c2a8;
+}
+
+.checkoutError {
+  border: 3px solid rgb(255, 127, 47);
+}
+
+.checkoutLoading {
+  opacity: 0.2;
+}
+
+.errorBox {
+  background-color: rgba(255, 127, 47, 0.541);
+  border-radius: 9px;
+  color: #fff;
+  margin-left: 35px;
+  margin-top: 10px;
+  padding: 10px 0;
+  width: 95%;
+}
+
+h2 {
+  color: #fff;
+  margin-bottom: 45px;
+  text-align: center;
+}
+
+.input {
+  font-size: 1em;
+  width: 3em;
+}
+
+span {
+  margin-left: 15px;
+}
+
+.table {
+  background-color: #f1f1f1;
+  border-radius: 3px;
+  border-spacing: 5px;
+  margin: 0 auto;
+  padding: 1em;
+  width: 95%;
+}
+
+.table tbody td {
+  background-color: white;
+  padding: 0.5em;
+}
+
+.table tfoot td {
+  font-weight: bold;
+}
+
+.table th {
+  text-align: left;
+}
+
+.total {
+  color: #889b70;
+}

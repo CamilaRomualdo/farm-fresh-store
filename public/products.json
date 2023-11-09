@@ -1,0 +1,106 @@
+[
+  {
+    "id": "101",
+    "name": "Cucumber",
+    "price": 1.00,
+    "description": "Cool and crisp cucumbers, refreshing in salads or pickled.",
+    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM69LAEPXCIYVtUh6tMYJwyUk6CvkqaKIIxdgd5soE88TqMGXt3J2wTrPl09FVpgESDi8&usqp=CAU",
+    "imageAlt": "A basket of cucumbers"
+  },
+  {
+    "id": "102",
+    "name": "Potato",
+    "price": 2.00,
+    "description": "Earthy and starchy potatoes, a staple for frying, baking, or mashing. ",
+    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWMYw2jj2GOwXur0gzOmLeTr0QWqQWJnGj_lMGu_pdqdD-HRh_2K4TqHBFHgt5CkGd8m8&usqp=CAU",
+    "imageAlt": "A basket of potatoes"
+  },
+  {
+    "id": "103",
+    "name": "Tomato",
+    "price": 3.50,
+    "description": "Ripe and red tomatoes, versatile for sauces, salads, and sandwiches.",
+    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ-YnJgpiIsuoW3pv7p6k8CUSYQK-UrRFC64HFXGg0-QaxM5H0PH5qHhVoChZiZB96_0o&usqp=CAU",
+    "imageAlt": "A basket of tomatoes"
+  },
+  {
+    "id": "110",
+    "name": "Onion",
+    "price": 2.50,
+    "description": "Sharp and flavorful onions, a base for countless recipes.",
+    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN5iSiLdR0WmrUjVLY6HFrBIwzwSpHtWy9otMTugMeJnZQYdJVTe5ybjVBG8QW711ixtw&usqp=CAU",
+    "imageAlt": "A basket of onions"
+  },
+  {
+    "id": "111",
+    "name": "Strawberry",
+    "price": 6.00,
+    "description": "Bright red, sweet strawberries, delicious on their own or in desserts.",
+    "imageURL": "https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX4255483.jpg",
+    "imageAlt": "A basket of strawberries"
+  },
+  {
+    "id": "200",
+    "name": "Grape",
+    "price": 4.50,
+    "description": "Plump and sweet grapes, perfect for eating fresh or making juice.",
+    "imageURL": "https://st.depositphotos.com/1177973/3485/i/450/depositphotos_34851217-stock-photo-assortment-of-ripe-sweet-grapes.jpg",
+    "imageAlt": "A basket of grapes"
+  },
+  {
+    "id": "205",
+    "name": "Apple",
+    "price": 5.50,
+    "description": "Crisp and juicy apples, ideal for snacking or baking.",
+    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFtT74sdoGxfYtELlnpKLgVg8piuQooVcsXngR_vnAvJupkW2G_FPK8_8tIFc9ONDYC-Q&usqp=CAU",
+    "imageAlt": "A basket of apples"
+  },
+  {
+    "id": "210",
+    "name": "Eggplanat",
+    "price": 3.00,
+    "description": "Deep purple, glossy eggplants, excellent for baking or frying. ",
+    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3jPoPNNrbA32UgD5u3QAxUtOhdqkp4HkbJIwapKqHH3LNcE4zcOJfllPJPu2x6OtqZ_c&usqp=CAU",
+    "imageAlt": "A basket of eggplants"
+  },
+  {
+    "id": "222",
+    "name": "Corn",
+    "price": 3.50,
+    "description": "Sweet, juicy ears of corn, perfect for boiling or grilling.",
+    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzPXLyTA0R-ViaEh18WaAPce0bajMfBzQ2bkzMqHpCMB5jYkx0wQyXklnMu052kZww5r8&usqp=CAU",
+    "imageAlt": "A basket of corn"
+  },
+  {
+    "id": "303",
+    "name": "Lettuce",
+    "price": 2.00,
+    "description": "Fresh heads of lettuce, tender and leafy for refreshing salads.",
+    "imageURL": "https://img.freepik.com/fotos-premium/folhas-de-alface-no-cesto-isolado-no-branco_147493-745.jpg?w=2000",
+    "imageAlt": "A basket of lettuce"
+  },
+  {
+    "id": "306",
+    "name": "Broccoli",
+    "price": 2.50,
+    "description": "Fresh, firm, and green, great for steaming or roasting.",
+    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwhMcyGsWu4SfJtT9LxlgcSA1vZqe9Nvy-5prze_qRgYeVUEP7UxbbTXtJIWN_F3m0czs&usqp=CAU",
+    "imageAlt": "A basket of broccoli"
+  },
+  {
+    "id": "309",
+    "name": "Capsicum",
+    "price": 4.00,
+    "description": "Bright and colorful bell peppers, ideal for stir-fries and grilling.",
+    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-I1xviy0DUtvEUtF-U_AZpmwYvbhwR2kW6FJp3StevDdW1HI7e8dZmKeVHz6UKMYROZ8&usqp=CAU",
+    "imageAlt": "A basket of capsicums"
+  },
+  {
+    "id": "400",
+    "name": "Cabbage",
+    "price": 3.00,
+    "description": "Freshly picked, crisp leaves perfect for salads and slaws.",
+    "imageURL": "https://static.vecteezy.com/system/resources/thumbnails/010/842/914/small/cabbages-in-wicker-basket-on-isolated-white-background-photo.jpg",
+    "imageAlt": "A basket of cabbages"
+  }
+]

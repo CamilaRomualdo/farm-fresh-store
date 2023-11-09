@@ -1,0 +1,13 @@
+.link {
+  margin-left: auto;
+  text-decoration: none;
+}
+
+.text {
+  background-color: white;
+  border-radius: 0.5em;
+  color: #333;
+  font-size: 0.8rem;
+  font-weight: normal;
+  padding: 0.5em;
+}
